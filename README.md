@@ -11,7 +11,7 @@ pinned: false
 
 # Amazon Review Framework API
 
-A comprehensive system for creating exceptional product reviews to qualify for the Amazon Vine program.
+A comprehensive system for creating Exceptional product reviews to qualify for the Amazon Vine program.
 
 ## Overview
 
